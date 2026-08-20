@@ -96,7 +96,7 @@ This gave me full control and a deeper understanding of how RAG systems work.
 
 I'm an AI Automation Engineer with a passion for building production-ready AI systems.
 
-[GitHub](https://github.com/alamin-omoyelee) | [LinkedIn]([https://linkedin.com/in/al-amin-mohammed/) 
+[GitHub](https://github.com/alamin-omoyele) | [LinkedIn](https://linkedin.com/in/al-amin-mohammed) 
 
 ---
 
