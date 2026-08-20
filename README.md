@@ -6,7 +6,7 @@
 
 ## 📸 Demo
 
-![Bot Demo](./demo.gif)
+![Bot Demo](demo.GIF)
 
 ---
 
